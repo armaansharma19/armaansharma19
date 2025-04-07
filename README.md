@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=anshuljain8110.anshuljain8110" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&letterSpacing=2&pause=1000&color=F7F7F7&vCenter=true&random=false&width=435&lines=Hii+there+%F0%9F%91%8B!;I+am+Armaan+Sharma.;Your+friendly+coder.;MERN+stack+magician.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&letterSpacing=2&pause=1000&color=F7F7F7&vCenter=true&random=false&width=435&lines=Hii+there+%F0%9F%91%8B!;I+am+Armaan+Sharma.;Just+a+learner.;MERN+stack+magician.)](https://git.io/typing-svg)
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
